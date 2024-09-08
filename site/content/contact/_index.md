@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "帅文心"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
